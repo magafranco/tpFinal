@@ -1,3 +1,10 @@
+/*
+FRANCO MAGALLANES DÍAZ, 119074/2
+PILAR GARAYZABAL, 119036/5
+
+ Trabajo Practico Final, Parte 2
+ */
+ 
 let imagenJugador, imagenObstaculo, imagenJefe, fondo1, fondo2;
 let juego;
 
