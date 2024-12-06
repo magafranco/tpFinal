@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.4em;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  font-size: 1.6em;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container.bg-success {
+  background-color: #33544c !important;
+}
+
+.container p, .container h4, .container h6 {
+  color: #1e1e20;
+}
+
+iframe {
+  box-shadow: 0 4px 8px black;
+  border-radius: 10px;
+}
+
+footer {
+  font-size: 0.9em;
+}
